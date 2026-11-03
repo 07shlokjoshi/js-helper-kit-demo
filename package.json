@@ -1,0 +1,17 @@
+{
+  "name": "js-helper-kit-demo",
+  "version": "1.0.0",
+  "description": "Demo project using js-helper-kit npm package",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "js-kit-helper": "^1.0.0"
+  },
+  "devDependencies": {
+    "vite": "^8.3.5"
+  }
+}
